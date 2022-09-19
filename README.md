@@ -1,3 +1,10 @@
+`ORG.IPEP:`
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/ImageProcessing-ElectronicPublications/imgmin)
+![GitHub Release Date](https://img.shields.io/github/release-date/ImageProcessing-ElectronicPublications/imgmin)
+![GitHub repo size](https://img.shields.io/github/repo-size/ImageProcessing-ElectronicPublications/imgmin)
+![GitHub all releases](https://img.shields.io/github/downloads/ImageProcessing-ElectronicPublications/imgmin/total)
+![GitHub](https://img.shields.io/github/license/ImageProcessing-ElectronicPublications/imgmin)  
+
 imgmin
 ======
 
