@@ -306,6 +306,8 @@ imgmin
 Examples
 --------
 
+See [examples images for imgmin](https://github.com/ImageProcessing-ElectronicPublications/imgmin-samples) (before and after).
+
 ### Generic
 
     $ time ./src/imgmin examples/Afghan-Girl-by-Steve-McCurry.jpg Afghan-Girl-by-Steve-McCurry-after.jpg
